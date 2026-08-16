@@ -1,4 +1,8 @@
 
+# it is based on simple react program which will help to understand the concept
+
+
+
 +# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
